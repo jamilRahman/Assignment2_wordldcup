@@ -1,0 +1,159 @@
+body{
+    margin: 0px;
+}
+/*-----------------------------------Banner-----------------------------*/
+.bannerimage{
+
+    background-color: rgb(26, 22, 22);
+    width: 80%;
+    height: 550px;
+    padding-left: 56px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.banner1{
+    display: flex;
+    
+
+}
+.ban{
+    color: white;
+    text-decoration: none;
+}
+.ban3{
+    font-size: 66px;
+}
+
+.b2{
+    padding-top: 65px;
+    padding-right: 33px;
+    width: 495px;
+    height: 485px;
+}
+.ban5{
+    background-color: #810606;
+    padding: 13px 39px;
+    border-radius: 8px;
+}
+
+
+/*---------------------------------Photo Grid---------------*/
+.photo{
+    background-color: black;
+    width: 250px;
+    height: 178px;
+    margin-left: 100px;
+    border-radius: 16px;
+}
+.photo{
+    padding-top: 26px;
+}
+.photo1 a{
+    text-decoration: none;
+    margin-left: 34px;
+    padding-top: 70px;
+}
+.pho2{
+    background-color: white;
+    padding: 10px;
+    width: 182px;
+    margin-left: 24px;
+    border-radius: 6px;
+}
+.pho2 a{
+    color: black;
+    text-align: center;
+}
+
+.pho3{
+    background-color: white;
+    padding: 10px;
+    width: 182px;
+    margin-left: 24px;
+    border-radius: 6px;
+}
+.pho3 a{
+    color: black;
+    text-align: center;
+    margin-left: 55px;
+}
+
+.pho4{
+    background-color: rgb(199, 0, 0);
+    padding: 10px;
+    width: 182px;
+    margin-left: 24px;
+    border-radius: 6px;
+}
+.pho4 a{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 72px;
+}
+
+.photogrid{
+    display: flex;
+}
+.grid{
+
+    display: grid;
+    grid-gap: 42px;
+    margin-left: 24px;
+    grid-column-gap: 194px;
+    grid-template-columns: repeat(3,80px);
+}
+.grid1{
+    border: 1px solid #b1b1b157;
+    width: 256px;
+    border-top: 11px;
+}
+.grid1 img{
+    width: 256px;
+}
+.grid2{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 2px 14px;
+    border-radius: 5px;
+    color: black;
+    margin-left: 20px;
+    
+}
+.grid22{
+    margin-left: 20px;
+}
+
+/*----------------------------------Footer--------------*/
+
+.footer{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(0, 0, 0);
+}
+
+.footer1{
+    text-align: center;
+    padding-top: 120px;
+    color: white;
+    font-size: 43px;
+    
+}
+.border{
+    width: 77%;
+    border: 1px solid rgba(255, 255, 255, 0.048);
+    
+}
+.padding {
+    padding-left: 254px;
+    
+
+}
+.fool1{
+    text-decoration: none;
+    padding-right: 53px;
+    color: white;
+
+    
+}
