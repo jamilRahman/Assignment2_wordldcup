@@ -124,7 +124,9 @@ body{
 .grid22{
     margin-left: 20px;
 }
-
+.button{
+    display: none;
+}
 /*----------------------------------Footer--------------*/
 
 .footer{
